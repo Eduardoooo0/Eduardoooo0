@@ -3,8 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardoooo0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardoooo0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&custom_title=Linguagens%20mais%20utilizadas" height="155" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardoooo0&theme=github-dark&custom_title=Contribui%C3%A7%C3%B5es&radius=16&area=false&hide_border=false&hide_title=false" height="220" alt="activity-graph graph"  />
 </div>
 
