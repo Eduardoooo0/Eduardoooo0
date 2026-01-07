@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Meu nome é Eduardo e sou estudante de programação.</h3>
+<h3 align="left">Olá! Meu nome é Eduardo e sou Técnico em informática para Internet.</h3>
 
 ###
 
@@ -50,6 +50,6 @@
 
 ###
 
-<p align="left">Aluno do curso de informática para internet no IFRN - Campus Caicó, Brasil.</p>
+<p align="left">Desenvolvedor Full Stack.</p>
 
 ###
